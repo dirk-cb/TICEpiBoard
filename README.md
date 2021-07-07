@@ -29,3 +29,7 @@ two networks ontop of each other in 3D space, however there were some issues
 as I was unable to make the two graphs appear closer, and there was no easy way 
 <br>
 of implementing interactivity.
+
+## Images
+![2D App Image](images/2DApp.png/)
+![3D App Image](images/3DApp.png/)
