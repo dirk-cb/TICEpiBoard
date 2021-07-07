@@ -19,6 +19,8 @@ To see an implementation of these, click the links above.
 The 2D version was made using visNetwork. I wanted interactivity between the two 
 <br>
 graphs, and visNetwork allowed me to highlight the same node on both networks.
+<br>
+When using this version, I suggest enabling the **Hovering Animation** checkbox.
 
 The 3D version was made using three.js. This one allows the ability to view the 
 <br>
